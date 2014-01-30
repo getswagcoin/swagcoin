@@ -1,0 +1,9 @@
+Building Swagcoin
+
+See doc/readme-qt.rst for instructions on building Swagcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Swagcoin.
+
+See doc/build-*.txt for instructions on building swagcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Swagcoin.
